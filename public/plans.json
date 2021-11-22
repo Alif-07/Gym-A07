@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Complete Calisthenics",
+		"purpose": "use this program to build basic strength and progressively prepare your body for skills",
+		"img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/PocbUpH9RDSIMvzxxOxS",
+		"course": 5,
+		"fee": "$28/m"
+	},
+	{
+		"id": 2,
+		"name": "Mobility Program",
+		"purpose": "improve your mobility in 8 months with progressive training and learn additional mobility tecniques,",
+		"img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/DiL4kDrQQlKLBXaJaH7Z",
+		"course": 8,
+		"fee": "$23/m"
+	},
+	{
+		"id": 3,
+		"name": "Body Transformation",
+		"purpose": "use this program to build as much muscle mass as possible and get sherdded.",
+		"img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/BmO7J06iQ8G1ub26LS9s",
+		"course": 11,
+		"fee": "$29/m"
+	},
+	{
+		"id": 4,
+		"name": "Home Workout",
+		"purpose": "no need to leave your house, you can get and stay fit at home, you only need your body and to chairs.",
+		"img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/rq6c3uxRmaITT2YPhbkA",
+		"course": 9,
+		"fee": "$24/m"
+	},
+	{
+		"id": 5,
+		"name": "Home Workout",
+		"purpose": "no need to leave your house, you can get and stay fit at home, you only need your body and to chairs.",
+		"img": "https://cdn2.coachmag.co.uk/sites/coachmag/files/styles/16x9_480/public/2017/10/snatch-grip-deadlift.jpg?itok=t4sjbN_A&timestamp=1507546192",
+		"course": 13,
+		"fee": "$38/m"
+	},
+	{
+		"id": 6,
+		"name": "Hybrid Training",
+		"purpose": "hybrid training means using two training techniques at the same time. we are talking strength training alongside an endurance sport, like cycling or running.",
+		"img": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2005/03/Hybrid-Hypertrophy.jpg",
+		"course": 5,
+		"fee": "$28/m"
+	}
+]
